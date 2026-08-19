@@ -1,12 +1,12 @@
 // Problem 1
-// Create a variable for height in centimeters.
-// Print "Tall" if the height is greater than 170, otherwise print "Short".
+// 180
+    console.log "Tall" 
 
 
 
 // Problem 2
-// Create a variable for age.
-// If they are 18 or older, print "Adult", else print "Minor".
+// 10
+    console.log "Minor".
 
 
 
